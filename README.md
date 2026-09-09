@@ -1,4 +1,4 @@
-# :school_satchel: Montaje y mantenimiento de sistemas y componentes informáticos - 1º FPB _(curso 26-27)_
+# :school_satchel: Montaje y mantenimiento de sistemas y componentes informáticos - 1º FPB INFORMÁTICA DE OFICINA _(curso 26-27)_
 
 > Curso auxiliar para el alumnado de **MMSCI** :man_technologist:
 >> "Lo MEJOR del mantenimiento es cuando te sobra un tornillo y todo funciona."
