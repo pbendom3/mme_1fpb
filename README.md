@@ -51,12 +51,9 @@
 [8. Virtualización e instalación de Sistemas Operativos]() `3ºT`
 
 ---
-
-*Periodo de Formación en Empresa* 👷
+**Periodo de Formación en Empresa 👷**
 
 ---
-
-
 
 | Unidades | RA1: Selección de componentes (30%) | RA2: Ensamblado de equipos (30%) | RA3: Instalación de sistemas operativos (10%) | RA4: Comprobación de funcionalidad (10%) | RA5: Mantenimiento básico de sistemas y gestión de residuos (15%) | RA6: Almacenaje, conservación y riesgos laborales (5%) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | 
