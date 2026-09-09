@@ -1,9 +1,9 @@
 # :school_satchel: Montaje y mantenimiento de sistemas y componentes informáticos - 1º FPB INFORMÁTICA DE OFICINA _(curso 26-27)_
 
-> Curso auxiliar para el alumnado de **MMSCI** :man_technologist:
->> "Lo MEJOR del mantenimiento es cuando te sobra un tornillo y todo funciona."
->>> "Lo PEOR del mantenimiento es cuando te sobra un tornillo y todo funciona." 🛠️
-
+> Curso auxiliar para el alumnado de **MMSCI** :computer:🛠️:construction:
+>> "Lo MEJOR del mantenimiento es cuando te sobra un tornillo :nut_and_bolt: y todo funciona." 
+>>> "Lo PEOR del mantenimiento es cuando te sobra un tornillo :nut_and_bolt: y todo funciona."
+>>> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mme.PNG" width="250" height="">
 
 ## :books: Planificación y secuenciación
@@ -25,11 +25,11 @@
 
 | Periodo | Temas (Alex) | Temas (Patri) | 
 | :--- | :--- | :--- |
-| `1ºT` | 1. Unidades funcionales de un ordenador | [2. Representación de la información y electrónica básica]() | 
-| `1ºT` | 3. Cajas y placas base | [4. Electricidad y fuentes de alimentación]() | 
-| `2ºT` | 5. Procesadores y memorias | [6. Almacenamiento y tarjetas de expansión]() | 
+| `1ºT` | 1. Unidades funcionales de un ordenador | [2. Representación de la información y electrónica básica :one::one::zero::one:]() | 
+| `1ºT` | 3. Cajas y placas base | [4. Electricidad y fuentes de alimentación :electric_plug::battery:]() | 
+| `2ºT` | 5. Procesadores y memorias | [6. Almacenamiento y tarjetas de expansión :floppy_disk:]() | 
 | `2ºT` | 📁 **[PROYECTO: PC customizado (para cliente)]()** | 
-| `3ºT` | 7. Ensamblaje, configuración y mantenimiento | [8. Virtualización e instalación de S.O.]() |
+| `3ºT` | 7. Ensamblaje, configuración y mantenimiento | [8. Virtualización e instalación de S.O. :man_technologist: ]() |
 | `3ºT` | 👷 **Periodo de Formación en Empresa** | 
 
 
