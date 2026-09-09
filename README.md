@@ -4,7 +4,7 @@
 >> "Lo MEJOR del mantenimiento es cuando te sobra un tornillo y todo funciona."
 >>> "Lo PEOR del mantenimiento es cuando te sobra un tornillo y todo funciona." 🛠️
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mme.PNG" width="" height="">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mme.PNG" width="250" height="">
 
 ## :books: Planificación y secuenciación
 
