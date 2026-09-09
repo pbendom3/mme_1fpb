@@ -15,9 +15,6 @@
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Pedir manuscrito de cómo usan la IA para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
-     
-![wq](ia.png)
-
    - Intro a la IA. Sesgos y errores en LLMs.
    - Uso académico de _NotebookLM_.
    - Protocolo de uso de IA:
@@ -26,17 +23,17 @@
       - Cómo se comprueba que el estudiante comprende lo entregado.
 ---
 
-1. Unidades funcionales de un ordenador `1ºT`
+[1. Unidades funcionales de un ordenador]() `1ºT`
 
 [2. Electrónica básica y representación de la información]() `1ºT`
 
-3. Cajas y placas base `1ºT`
+[3. Cajas y placas base]() `1ºT`
     
 [4. Electricidad y fuentes de alimentación]() `1ºT`
 
 ---
 
-5. Procesadores y memorias `2ºT`
+[5. Procesadores y memorias]() `2ºT`
 
 [6. Almacenamiento y tarjetas de expansión]() `2ºT`
 
@@ -46,7 +43,7 @@
 
 ---
 
-7. Ensamblaje, configuración y mantenimiento de un equipo informático `3ºT`
+[7. Ensamblaje, configuración y mantenimiento de un equipo informático]() `3ºT`
 
 [8. Virtualización e instalación de Sistemas Operativos]() `3ºT`
 
