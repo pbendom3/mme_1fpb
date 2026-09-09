@@ -50,7 +50,9 @@
 
 [8. Virtualización e instalación de Sistemas Operativos]()
 
-*Periodo de Formación en Empresa 👷*
+---
+
+*Periodo de Formación en Empresa* 👷
 
 ---
 
