@@ -52,6 +52,19 @@
 
 ---
 
+
+| Periodo | Temas (Alex) | Temas (Patri) | 
+| :--- | :--- | :--- |
+| `1ºT` | 1. Unidades funcionales de un ordenador | 2. Representación de la información y electrónica básica | 
+| `1ºT` | 3. Cajas y placas base | 4. Electricidad y fuentes de alimentación | 
+| `2ºT` | 5. Procesadores y memorias | 6. Almacenamiento y tarjetas de expansión | 
+| `2ºT` | 📁 **PROYECTO: PC customizado (para cliente)** | 
+| `3ºT` | 7. Ensamblaje, configuración y mantenimiento | 8. Virtualización e instalación de S.O. | 3
+| `3ºT` | 👷 **Periodo de Formación en Empresa** | 
+
+
+---
+
 | Unidades | RA1: Selección de componentes (30%) | RA2: Ensamblado de equipos (30%) | RA3: Instalación de sistemas operativos (10%) | RA4: Comprobación de funcionalidad (10%) | RA5: Mantenimiento básico de sistemas y gestión de residuos (15%) | RA6: Almacenaje, conservación y riesgos laborales (5%) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | 
 | **U1.** Unidades funcionales de un ordenador `1ºT` | 5% | | | | | |
