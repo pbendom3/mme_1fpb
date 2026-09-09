@@ -58,7 +58,7 @@
 
 
 
-| Unidades | RA1: Selección de componentes (30%) | RA2: Ensamblado de equipos (30%) | RA3: Mantenimiento y pruebas (10%) | RA4: Instalación de software (10%) | RA5: Gestión de residuos (15%) | RA6: Riesgos laborales (5%) |
+| Unidades | RA1: Selección de componentes (30%) | RA2: Ensamblado de equipos (30%) | RA3: Instalación de sistemas operativos (10%) | RA4: Comprobación de funcionalidad (10%) | RA5: Mantenimiento básico de sistemas y gestión de residuos (15%) | RA6: Almacenaje, conservación y riesgos laborales (5%) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | 
 | **U1.** Unidades funcionales de un ordenador `1ºT` | 5% | | | | | |
 | **U2.** Electrónica básica y rep. de la información `1ºT` | 5% | | | | | | 
