@@ -23,43 +23,13 @@
       - Cómo se comprueba que el estudiante comprende lo entregado.
 ---
 
-[1. Unidades funcionales de un ordenador]() `1ºT`
-
-[2. Representación de la información y electrónica básica]() `1ºT`
-
-[3. Cajas y placas base]() `1ºT`
-    
-[4. Electricidad y fuentes de alimentación]() `1ºT`
-
----
-
-[5. Procesadores y memorias]() `2ºT`
-
-[6. Almacenamiento y tarjetas de expansión]() `2ºT`
-
----
-
-[:open_file_folder: *PROYECTO: PC customizado (para cliente)*]()
-
----
-
-[7. Ensamblaje, configuración y mantenimiento de un equipo informático]() `3ºT`
-
-[8. Virtualización e instalación de Sistemas Operativos]() `3ºT`
-
----
-**Periodo de Formación en Empresa 👷**
-
----
-
-
 | Periodo | Temas (Alex) | Temas (Patri) | 
 | :--- | :--- | :--- |
-| `1ºT` | 1. Unidades funcionales de un ordenador | 2. Representación de la información y electrónica básica | 
-| `1ºT` | 3. Cajas y placas base | 4. Electricidad y fuentes de alimentación | 
-| `2ºT` | 5. Procesadores y memorias | 6. Almacenamiento y tarjetas de expansión | 
-| `2ºT` | 📁 **PROYECTO: PC customizado (para cliente)** | 
-| `3ºT` | 7. Ensamblaje, configuración y mantenimiento | 8. Virtualización e instalación de S.O. | 3
+| `1ºT` | 1. Unidades funcionales de un ordenador | [2. Representación de la información y electrónica básica]() | 
+| `1ºT` | 3. Cajas y placas base | [4. Electricidad y fuentes de alimentación]() | 
+| `2ºT` | 5. Procesadores y memorias | [6. Almacenamiento y tarjetas de expansión]() | 
+| `2ºT` | 📁 **[PROYECTO: PC customizado (para cliente)]()** | 
+| `3ºT` | 7. Ensamblaje, configuración y mantenimiento | [8. Virtualización e instalación de S.O.]() |
 | `3ºT` | 👷 **Periodo de Formación en Empresa** | 
 
 
