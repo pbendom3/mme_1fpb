@@ -25,7 +25,7 @@
 
 [1. Unidades funcionales de un ordenador]() `1ºT`
 
-[2. Representación de la información y Electrónica básica]() `1ºT`
+[2. Representación de la información y electrónica básica]() `1ºT`
 
 [3. Cajas y placas base]() `1ºT`
     
