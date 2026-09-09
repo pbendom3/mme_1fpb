@@ -26,17 +26,17 @@
       - Cómo se comprueba que el estudiante comprende lo entregado.
 ---
 
-[1. Unidades funcionales de un ordenador]() `1ºT`
+1. Unidades funcionales de un ordenador `1ºT`
 
 [2. Electrónica básica y representación de la información]() `1ºT`
 
-[3. Cajas y placas base]() `1ºT`
+3. Cajas y placas base `1ºT`
     
 [4. Electricidad y fuentes de alimentación]() `1ºT`
 
 ---
 
-[5. Procesadores y memorias]() `2ºT`
+5. Procesadores y memorias `2ºT`
 
 [6. Almacenamiento y tarjetas de expansión]() `2ºT`
 
@@ -46,7 +46,7 @@
 
 ---
 
-[7. Ensamblaje, configuración y mantenimiento de un equipo informático]() 
+7. Ensamblaje, configuración y mantenimiento de un equipo informático
 
 [8. Virtualización e instalación de Sistemas Operativos]()
 
@@ -54,14 +54,16 @@
 
 ---
 
-| Temas y Proyectos | CE1 Programación | CE2 Sistemas | CE3 Redes | CE4 Servicios en red | CE5 Ciudadanía digital |
-|---|---:|---:|---:|---:|---:|
-| Bienvenida, Noticiario y uso responsable de la IA | 5 % | 0 % | 0 % | 0 % | 25 % |
-| 1. Introducción a la programación | 35 % | 0 % | 0 % | 0 % | 10 % |
-| 2. Estructuras estáticas y programación modular | 45 % | 0 % | 0 % | 0 % | 10 % |
-| Proyecto OICV/OIE | 10 % | 0 % | 0 % | 0 % | 10 % |
-| 3. Sistemas informáticos y redes | 0 % | 55 % | 65 % | 0 % | 15 % |
-| 4. Introducción al desarrollo web | 5 % | 0 % | 0 % | 55 % | 5 % |
-| Proyecto «Expertos en componentes» | 0 % | 15 % | 0 % | 15 % | 10 % |
-| 5. Seguridad informática | 0 % | 30 % | 35 % | 30 % | 15 % |
-| **Total de cada competencia** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
+
+| Temas | RA1: Selección de componentes (30%) | RA2: Ensamblado de equipos (30%) | RA3: Mantenimiento y pruebas (10%) | RA4: Instalación de software (10%) | RA5: Gestión de residuos (15%) | RA6: Riesgos laborales (5%) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **U1.** Unidades funcionales de un ordenador `1ºT` | 5% | | | | | |
+| **U2.** Electrónica básica y rep. de la información `1ºT` | 5% | | | | | |
+| **U3.** Cajas y placas base `1ºT` | 5% | 2,5% | | | | |
+| **U4.** Electricidad y fuentes de alimentación `1ºT` | 5% | 2,5% | | | | |
+| **U5.** Procesadores y memorias `2ºT` | 5% | 2,5% | | | | |
+| **U6.** Almacenamiento y tarjetas de expansión `2ºT` | 5% | 2,5% | | | | |
+| **U7.** Ensamblaje, conf. y mantenimiento de equipo | | 20% | | 10% | 10% | 5% |
+| **U8.** Virtualización e instalación de S.O. | | | 10% | | 5% | |
+
+| **Total de cada RA** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
