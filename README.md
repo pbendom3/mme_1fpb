@@ -41,7 +41,9 @@
 [6. Almacenamiento y tarjetas de expansión]() `2ºT`
 
 ---
+
 [:open_file_folder: *PROYECTO: PC customizado (para cliente)*]()
+
 ---
 
 [7. Ensamblaje, configuración y mantenimiento de un equipo informático]() 
