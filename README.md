@@ -46,9 +46,9 @@
 
 ---
 
-7. Ensamblaje, configuración y mantenimiento de un equipo informático
+7. Ensamblaje, configuración y mantenimiento de un equipo informático `3ºT`
 
-[8. Virtualización e instalación de Sistemas Operativos]()
+[8. Virtualización e instalación de Sistemas Operativos]() `3ºT`
 
 ---
 
@@ -66,5 +66,5 @@
 | **U4.** Electricidad y fuentes de alimentación `1ºT` | 5% | 2,5% | | | | | 
 | **U5.** Procesadores y memorias `2ºT` | 5% | 2,5% | | | | | **7,5%** |
 | **U6.** Almacenamiento y tarjetas de expansión `2ºT` | 5% | 2,5% | | | | |
-| **U7.** Ensamblaje, conf. y mantenimiento de equipo | | 20% | | 10% | 10% | 5% |
-| **U8.** Virtualización e instalación de S.O. | | | 10% | | 5% | | **15%** |
+| **U7.** Ensamblaje, conf. y mantenimiento de equipo `3ºT` | | 20% | | 10% | 10% | 5% |
+| **U8.** Virtualización e instalación de S.O. `3ºT` | | | 10% | | 5% | | **15%** |
