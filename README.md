@@ -68,4 +68,3 @@
 | **U6.** Almacenamiento y tarjetas de expansión `2ºT` | 5% | 2,5% | | | | |
 | **U7.** Ensamblaje, conf. y mantenimiento de equipo | | 20% | | 10% | 10% | 5% |
 | **U8.** Virtualización e instalación de S.O. | | | 10% | | 5% | | **15%** |
-| **Total de cada RA** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
