@@ -56,14 +56,14 @@
 
 
 
-| Unidades | RA1: Selección de componentes (30%) | RA2: Ensamblado de equipos (30%) | RA3: Mantenimiento y pruebas (10%) | RA4: Instalación de software (10%) | RA5: Gestión de residuos (15%) | RA6: Riesgos laborales (5%) | Total Curso |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **U1.** Unidades funcionales de un ordenador `1ºT` | 5% | | | | | | **5%** |
-| **U2.** Electrónica básica y rep. de la información `1ºT` | 5% | | | | | | **5%** |
+| Unidades | RA1: Selección de componentes (30%) | RA2: Ensamblado de equipos (30%) | RA3: Mantenimiento y pruebas (10%) | RA4: Instalación de software (10%) | RA5: Gestión de residuos (15%) | RA6: Riesgos laborales (5%) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | 
+| **U1.** Unidades funcionales de un ordenador `1ºT` | 5% | | | | | |
+| **U2.** Electrónica básica y rep. de la información `1ºT` | 5% | | | | | | 
 | **U3.** Cajas y placas base `1ºT` | 5% | 2,5% | | | | | **7,5%** |
-| **U4.** Electricidad y fuentes de alimentación `1ºT` | 5% | 2,5% | | | | | **7,5%** |
+| **U4.** Electricidad y fuentes de alimentación `1ºT` | 5% | 2,5% | | | | | 
 | **U5.** Procesadores y memorias `2ºT` | 5% | 2,5% | | | | | **7,5%** |
-| **U6.** Almacenamiento y tarjetas de expansión `2ºT` | 5% | 2,5% | | | | | **7,5%** |
-| **U7.** Ensamblaje, conf. y mantenimiento de equipo | | 20% | | 10% | 10% | 5% | **45%** |
+| **U6.** Almacenamiento y tarjetas de expansión `2ºT` | 5% | 2,5% | | | | |
+| **U7.** Ensamblaje, conf. y mantenimiento de equipo | | 20% | | 10% | 10% | 5% |
 | **U8.** Virtualización e instalación de S.O. | | | 10% | | 5% | | **15%** |
-| **Total de cada RA** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
+| **Total de cada RA** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
