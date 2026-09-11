@@ -15,7 +15,6 @@
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Pedir manuscrito de cómo usan la IA para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
-   - Intro a la IA. Sesgos y errores en LLMs.
    - Uso académico de _NotebookLM_.
    - Protocolo de uso de IA:
       - Cuándo se puede utilizar y qué datos no deben introducirse en una herramienta externa.
