@@ -24,7 +24,7 @@
 
 | Periodo | Temas (Alex) | Temas (Patri) | 
 | :--- | :--- | :--- |
-| `1ºT` | 1. Unidades funcionales de un ordenador | [2. Representación de la información y electrónica básica :one::one::zero::one:]() | 
+| `1ºT` | 1. Unidades funcionales de un ordenador | [2. Representación de la información y electrónica básica (lógica digital) :one::one::zero::one:](ud2/ud2.md) | 
 | `1ºT` | 3. Cajas y placas base | [4. Electricidad y fuentes de alimentación :electric_plug::battery:]() | 
 | `2ºT` | 5. Procesadores y memorias | [6. Almacenamiento y tarjetas de expansión :floppy_disk:]() | 
 | `2ºT` | 📁 **[PROYECTO: PC customizado (para cliente)]()** | 
