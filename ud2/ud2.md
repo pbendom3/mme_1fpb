@@ -1,4 +1,4 @@
-# :blue_book: Representación de la información y electrónica básica (lógica digital) :one::one::zero::one:
+# :blue_book: 2. Representación de la información y electrónica básica (lógica digital) :one::one::zero::one:
 
 <img src="binario.png" width="350" height="">
 
